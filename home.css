@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(235, 235, 235)  ;
+}
+
+.jumbotron{
+    padding: 10rem 1rem;
+    background-color: rgb(235, 235, 235) ;
+    margin-bottom: 30px;
+}
+
+.jumbotron2{
+    padding: 4rem;
+}
+
+#project{
+    padding: 4rem;
+}
+
+#desc2{
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.project1{
+    padding-top: 50px;
+}
+
+#contact{
+    height: 550px;
+    background-color: rgb(183, 180, 180) ;
+}
+
+
+footer{
+    height: 100px;
+}
